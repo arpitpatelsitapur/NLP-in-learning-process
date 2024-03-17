@@ -1,4 +1,4 @@
-# My NLP Learning Journey
+# My NLP Learning Journey - Not completed, still in progress
 
 Welcome to my repository where I document my journey learning Natural Language Processing (NLP)! This repository contains a collection of Jupyter notebooks, each covering different concepts, algorithms, and projects related to NLP.
 
